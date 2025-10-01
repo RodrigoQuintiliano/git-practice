@@ -1,0 +1,4 @@
+Name: Rodrigo Quintiliano
+Age: 27
+Favorite Colour: Blue
+git init
